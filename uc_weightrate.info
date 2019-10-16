@@ -1,0 +1,7 @@
+name = Uber cart Weight Rates
+description = uber cart shipping Weight Rate module developed by harsha (free2harsha@gmail.com)
+core = 7.x
+dependencies[] = uc_cart
+package  = Custom Module
+
+configure = admin/store/settings/quotes/methods
